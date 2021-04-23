@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cesarcarmona
 - 👀 I’m interested in backend and frontend development
-- 🌱 I’m currently learning vueJs
+- 🌱 I’m currently learning vueJs, Laravel
 - 💞️ I’m looking to collaborate on Laravel, Perl, JavaScript
 - 📫 How to reach me contacto.carmona@gmail.com
 
